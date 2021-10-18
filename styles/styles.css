@@ -1,0 +1,50 @@
+/*Partially Adopted From: https://www.w3schools.com/css/tryit.asp?filename=trycss_font-family*/
+body {
+	margin: 15px;
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 15px;
+}
+/*Adopted From: https://www.w3schools.com/cssref/pr_font_font-size.asp*/
+/*Adopted From: https://www.w3schools.com/cssref/pr_text_color.asp*/
+/*Adopted From: https://www.w3schools.com/cssref/pr_font_weight.asp*/
+h1 {
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 20px;
+	color: #666666;
+	font-weight: bold;
+}
+
+/*Adopted From: https://www.w3schools.com/cssref/pr_list-style-type.asp*/
+ul.a {
+	list-style-type: circle;
+}
+
+/*Adopted From: https://www.w3schools.com/css/tryit.asp?filename=trycss_table_border*/
+tr, th, td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+/*Adopted From: https://www.w3schools.com/cssref/css_selectors.asp*/ 
+/*Adopted From: https://www.w3schools.com/cssref/pr_font_font-size.asp*/
+/*Adopted From: https://www.w3schools.com/cssref/pr_font_weight.asp*/
+/*Adopted From: https://www.w3schools.com/cssref/pr_text_color.asp*/
+
+h2.parkName{
+	color: teal;
+	font-family: "Times New Roman", Times, serif;
+	margin-bottom: 0px;
+}
+
+div {
+	margin: 5px;
+}
+
+div.park {
+	margin-bottom: 10px;
+}
